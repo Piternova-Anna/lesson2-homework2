@@ -12,3 +12,11 @@ if (index < 8 && index > 0)
     Console.WriteLine("введенное значение не входит в диапазон от 1 до 7");
  } 
   
+if (index > 5 )
+    {
+        Console.WriteLine("Урра!выходной!");
+    }
+    else
+    {
+        Console.WriteLine("рабочий день");
+    }
